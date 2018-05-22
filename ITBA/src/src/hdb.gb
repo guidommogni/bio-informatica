@@ -1,0 +1,258 @@
+LOCUS       NG_029922               7601 bp    DNA     linear   PRI 19-JAN-2018
+DEFINITION  Homo sapiens major histocompatibility complex, class II, DQ beta 1
+            (HLA-DQB1), RefSeqGene on chromosome 6.
+ACCESSION   NG_029922 REGION: 5001..12601
+VERSION     NG_029922.1
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7601)
+  AUTHORS   Taylor,A.K., Lebwohl,B., Snyder,C.L. and Green,P.H.R.
+  TITLE     Celiac Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301720
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL731683.12.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: HLA-DQB1 belongs to the HLA class II beta chain paralogs.
+            This class II molecule is a heterodimer consisting of an alpha
+            (DQA) and a beta chain (DQB), both anchored in the membrane. It
+            plays a central role in the immune system by presenting peptides
+            derived from extracellular proteins. Class II molecules are
+            expressed in antigen presenting cells (APC: B lymphocytes,
+            dendritic cells, macrophages). The beta chain is approximately
+            26-28 kDa and it contains six exons. Exon 1 encodes the leader
+            peptide, exons 2 and 3 encode the two extracellular domains, exon 4
+            encodes the transmembrane domain and exon 5 encodes the cytoplasmic
+            tail. Within the DQ molecule both the alpha chain and the beta
+            chain contain the polymorphisms specifying the peptide binding
+            specificities, resulting in up to four different molecules. Typing
+            for these polymorphisms is routinely done for bone marrow
+            transplantation. Alternative splicing results in multiple
+            transcript variants. [provided by RefSeq, Sep 2011].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-14601             AL731683.12        15739-30339         c
+FEATURES             Location/Qualifiers
+     source          1..7601
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p21.32"
+     gene            1..7601
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /note="major histocompatibility complex, class II, DQ beta
+                     1"
+                     /db_xref="GeneID:3119"
+                     /db_xref="HGNC:HGNC:4944"
+                     /db_xref="MIM:604305"
+     mRNA            join(1..188,1627..1896,4786..5067,5584..5694,6815..7601)
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /product="major histocompatibility complex, class II, DQ
+                     beta 1, transcript variant 3"
+                     /transcript_id="NM_001243962.1"
+                     /db_xref="GeneID:3119"
+                     /db_xref="HGNC:HGNC:4944"
+                     /db_xref="MIM:604305"
+     exon            1..188
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=1
+     CDS             join(80..188,1627..1896,4786..5067,5584..5694,6815..6828)
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 3; HLA class II histocompatibility antigen, DQ
+                     beta 1 chain; MHC class II DQ beta chain; MHC class II
+                     antigen DQB1; MHC class II HLA-DQ beta glycoprotein; MHC
+                     class II antigen HLA-DQ-beta-1"
+                     /codon_start=1
+                     /product="HLA class II histocompatibility antigen, DQ beta
+                     1 chain isoform 1 precursor"
+                     /protein_id="NP_001230891.1"
+                     /db_xref="GeneID:3119"
+                     /db_xref="HGNC:HGNC:4944"
+                     /db_xref="MIM:604305"
+                     /translation="MSWKKALRIPGGLRAATVTLMLSMLSTPVAEGRDSPEDFVYQFK
+                     GMCYFTNGTERVRLVSRSIYNREEIVRFDSDVGEFRAVTLLGLPAAEYWNSQKDILER
+                     KRAAVDRVCRHNYQLELRTTLQRRVEPTVTISPSRTEALNHHNLLVCSVTDFYPAQIK
+                     VRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITV
+                     EWRAQSESAQSKMLSGIGGFVLGLIFLGLGLIIHHRSQKGLLH"
+     exon            1627..1896
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=2
+     exon            4786..5067
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=3
+     exon            5584..5694
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=4
+     gene            complement(6336..>7185)
+                     /gene="HLA-DQB1-AS1"
+                     /note="HLA-DQB1 antisense RNA 1"
+                     /db_xref="GeneID:106480429"
+                     /db_xref="HGNC:HGNC:39762"
+     ncRNA           complement(join(6336..6709,7009..7185))
+                     /ncRNA_class="lncRNA"
+                     /gene="HLA-DQB1-AS1"
+                     /product="HLA-DQB1 antisense RNA 1"
+                     /inference="similar to RNA sequence (same
+                     species):RefSeq:NR_133907.1"
+                     /exception="mismatches in transcription"
+                     /note="The RefSeq transcript has 23 substitutions, 2
+                     non-frameshifting indels compared to this genomic
+                     sequence"
+                     /transcript_id="NR_133907.1"
+                     /db_xref="GeneID:106480429"
+                     /db_xref="HGNC:HGNC:39762"
+     exon            6815..7601
+                     /gene="HLA-DQB1"
+                     /gene_synonym="CELIAC1; HLA-DQB; IDDM1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=5
+ORIGIN      
+        1 tttttattct ttctgccagg tacatcagat ccatcaggtc cgagctgtgt tgactaccac
+       61 ttttcccttc gtctcaatta tgtcttggaa aaaggctttg cggatccccg gaggccttcg
+      121 ggcagcaact gtgaccttga tgctgtcgat gctgagcacc ccagtggctg agggcagaga
+      181 ctctcccggt aagtgcaggg cagctgctct ccagagccgc tactctggga acaggctctc
+      241 cttgggctgg ggtacgggga tggtgatctc cataatctcg gacacaatct tttatcaaca
+      301 tttcctctgt tttgggaaag agagctatgt tgcatttcca tttatctttt aatgatgaag
+      361 tgaggacaat ccaatcccat cctacaggct taagcctgga agaggaggag agaggagaga
+      421 aaagaggaga caaagtgttc atttactacc agtgatagga caaagtgagc atggggttat
+      481 ttttgaagat atgaatttct ccaaagacac agcaggattt gccatttagg cgtgtcccaa
+      541 gacttgcctg gactaaatat tatgatttcc tgcattggga aatgcaaggc agcaatggtg
+      601 tctgtagtct ccgtatttgg ggaaaagttg tctgtattcc tgacccagtg gagcgtttgt
+      661 ggaggcaaaa tcttggtact gagggaagct gactggctga ccacagaaag agagccttca
+      721 ggtttcactg atttatgggc aaatggtgac ctgagtggga ttcagatacc cgagttgatg
+      781 atggactaaa tttagtagaa aggaggatgt aaagaaggga aataacacat actgtgaaac
+      841 cactcatttc agacacagaa caatacttta cataaattct ctctcactcc ttctaacatc
+      901 ctgtgtgtag atatcatgat tttcttttac acaattatac ttgtgatatg gatattctgt
+      961 tacataaact gcccgggctg gtgactgcca cagtttaatg ggaatctagt ttatcaaatt
+     1021 caaaagcttg tgctctttcg gtgaataaat gtttctttct aggactcaga gatctaggac
+     1081 tcccttcttt ctaacacaga cgtgagtgaa cctcacaggg cacttgggag ggtaaatcca
+     1141 ggcatgggaa ggaaggtatt ttacccaggg accaagagaa taggcgtatc ggaagaggac
+     1201 aggtttaatt cctggacctg tctcgtcatt cccttgaact gtcaggttta tgtggataac
+     1261 tttatctctg aggtacccag gagctccatg gaaaatgaga tttcatgcga gaacgccctg
+     1321 atccctctaa gtgcagaggt ccatgtaaaa tcagcccgac tgcctcttca cttggttcac
+     1381 aggccgagac agggacaggg ctttcctccc tttcctgcct gtaggaaggc ggattcccga
+     1441 agacccccga gagggcgggc agggctgggc agagccgccg ggaggatccc aggtctgcag
+     1501 cgcgaggcac gggccggcgg gaacttgtgg tcgcgcgggc tgttccacag ctccgggccg
+     1561 ggtcagggtg gcggctgcgg gggcggacgg gctgggccgc actgactggc cggtgattcc
+     1621 tcgcagagga tttcgtgtac cagtttaagg gcatgtgcta cttcaccaac gggacagagc
+     1681 gcgtgcgtct tgtgagcaga agcatctata accgagaaga gatcgtgcgc ttcgacagcg
+     1741 acgtggggga gttccgggcg gtgacgctgc tggggctgcc tgccgccgag tactggaaca
+     1801 gccagaagga catcctggag aggaaacggg cggcggtgga cagggtgtgc agacacaact
+     1861 accagttgga gctccgcacg accttgcagc ggcgaggtga gcggcgtcgc ccctctgcga
+     1921 ggcccaccct tggccccaag tctctgcgcc aggaggggcg aagggtcgtg gcctctggaa
+     1981 cctgagcccc gtttgttcca ccccagagga caggaggcag cggcgagagt ggtgggggca
+     2041 ggtgcatcgg aggtgcgggg acctagggca gagcaggggg acaggcagag ttggccaggc
+     2101 tgcctagtgt cgccccagcc tacccgttcg tcggccttgt cctctgctct gcatgttctt
+     2161 gcctcgtgcc ttatgcattt gcctcctttt gccttacctt tgctaagcag ctctctctgc
+     2221 tcagaatgcc cgccctcttc ccctgcccgc ccgcccgccc cactagcact gccccaccca
+     2281 gcaaggccca cgtgcacagc tcttgcagca ggaagcttca ggcttagcct ggtggagtta
+     2341 gggctgttcc acaactgcgc gcaggacatt cagcaattac agttgtgaaa taagatattt
+     2401 taacttttgg cttcaaatca ttattcatcg taattctgtt ttcttaaatg gctctcattc
+     2461 atggcagaga tctttgaggt gagggtgttt taatcattgc atgcctagta cctgacacat
+     2521 tgactggtat gtggtgtgag ctcaatgatc ttctgttaaa ttaatgaata aatgtactca
+     2581 gctgcccatc cacttaggct caagaaaaaa aaagaggtaa acagagcctt aaaaatggac
+     2641 tttattaatt attttctata attttgctta atgctttaaa gtaaactctt attgacttgg
+     2701 atcttaatag agtttgtgaa tacaaaatct gaggaaaaaa gtttttgcta aaaataaaaa
+     2761 caacgcttga aagatattgt aaggcagttt aaatttcttt tcttttcttt tttttttttt
+     2821 tttgagacgg attctcactc tgtcgcccag gccggagtgc agtggcgcga tctcggctca
+     2881 ctgcaagctc cgcctcccgg gttcacgcca ttctcctgcc tcagcctcct gagtaggtgg
+     2941 gattacaggc gcgtgccacc acgcccggct aatttttttg tatttttagt agaggcgggg
+     3001 tttcaccgtg ttagccagga tggtctggat ctcctgacct catgatccgc ccgcctcggc
+     3061 ctcccaaagt gctgggatta caggtgtgag ccacagtgcc cggccggcac ttttaatttc
+     3121 ttagaaaagc tgaacaaatg gcacaatgca aagagcaaaa gttttggaat aaatagattg
+     3181 aagccattaa attattggat aaaaatagtt tcgggttgct tttggcctag gttctcccct
+     3241 ccccccatga ctatccactt caggaataaa cattctgaaa gtcaatttta cccatttagt
+     3301 gagcatttat ttctagacag ttgccttatc aaataccatc tatgttacgt catttaatct
+     3361 cacagttact tgtgcatcag agattagcat caccacttta tatattggta catgataaac
+     3421 actttattgg tcatggatgg ggagatggtc actgtaggct aatattggta catgataaac
+     3481 actttaagta atcagcccat aattgctcac caagacctta agcctcccaa agtacacaac
+     3541 attctttgtg ttcttcacta cacatccata gagtctaagg gacgtaaagc ctcgttaaag
+     3601 ccagttttga ccagaagcag caatgagtct attcctgtgt gttttccatg ttaatgggac
+     3661 aaaatgatac tttcaaggca ttgaaaattc atgattaatc aatccctagt ctgaccccag
+     3721 tgttatctat gcaggtttgc aaaaccttta gtttacttaa tactcccttg ccttcttttg
+     3781 attcacatcc taatgccagc aaatacttat gtttttgcta tttcagttcc atttccataa
+     3841 aatttatttt atcatctttt ctcataaatt tatgccctct atttttactc ccaatctgtt
+     3901 taagatgaac aaatcttata aggccacata gctgactgtt atttctgttg gactccagga
+     3961 aggagaacct aaagaaaagt tcaagtccaa gcagaaaccg tgatttcttc cagatgatgg
+     4021 ctcatgagtg ccatttaatt ggggtgccac ctggtgacct cagcaaatcc cagctatatt
+     4081 tatgtgttca cattacagga tcattaaccc agaccgacca ctgcacagat ctcagaatat
+     4141 tttctatgga gaacatacat aataatgcct gatttcagaa gaagaaagta attctcaata
+     4201 gcaaggggat ggagtagggt agacagctgt aattaaactc acttgtgtga taaaaagaaa
+     4261 ttaaggaaaa aagaaaatga gagaacatat tactaaataa agaaagcata cattaaatat
+     4321 ttactatagt ttcacactaa gagaataaag gaaatgcaat aaagtggcct gaaaggtaaa
+     4381 ggatgagatg tgtaaagggg tgtagtattt ttactatgag cagcaatctg agaagataaa
+     4441 ggaatcgagt tacgggcaaa catgatgttt gatcagtgtt atttgttttc aaggcctgcc
+     4501 taaatttttt tcaaatatta caaacttttg aaataacatt ctttttgttt tttgctgtct
+     4561 gttactaggt tgcacatttt ataaaggcag ggaccatggt atgttgtttg tctttggatt
+     4621 ctcagtgatt gttatattta tatttgttga aggaacctta atccaagact tggactccaa
+     4681 gtatctttcc actctggttc caaggaggga ccttcctcac agcaggcatg ctgtgtggtc
+     4741 tcacatctca ctcctatatc tttccctgtc tgttactgcc ctcagtggag cccacagtga
+     4801 ccatctcccc atccaggaca gaggccctca accaccacaa cctgctggtc tgctcggtga
+     4861 cagatttcta tccagcccag atcaaagtcc ggtggtttcg gaatgaccag gaggagacag
+     4921 ctggcgttgt gtccaccccc cttattagga atggtgactg gaccttccag atcctggtga
+     4981 tgctggaaat gactccccag cgtggagacg tctacacctg ccacgtggag caccccagcc
+     5041 tccagagccc catcaccgtg gagtggcgta aggggatatt gagtttctgt tactgtgggc
+     5101 cccacaagac aaaggacaga gctccttctg acccatccct tcccatctct tatccctgat
+     5161 gtcactgctg agctgggaat cacaggagac tagagcacct ctagttccat ggcgagtgca
+     5221 tcagaagaat cctgatctca tcacctttcc agatgctagg gaaattactc tacatactgt
+     5281 tgctctggat cccagtcctg attgctctga ggaactgatt attagggctg gtgactggga
+     5341 tcttagggtc taagtttatg gatgagttcc tgaggagtgg agatctgctt ccccactctg
+     5401 tcacctactc actgtatcca aggacctatt ggctggcctt tccctccctt aggggtggtc
+     5461 tgaatggaga actaggttcc tttgatgcct tcacctcctg catctcagac tggacttcag
+     5521 ctcctcatca gggaaactat ggggtatggg gacaaacact gacactcagg ctctgcttct
+     5581 caggggctca atctgaatct gcccagagca agatgctgag tggcattgga ggcttcgtgc
+     5641 tggggctgat cttcctcggg ctgggcctta tcatccatca caggagtcag aaaggtgagg
+     5701 aaccccaggg gaaaagggga agatggcctg tgacccagac cctctgttca gagaggtcct
+     5761 gtctctagat gtagctcttt cctcctgacc ctgagaggaa gaaagctgag ctggaagtgg
+     5821 aaggagacag gacaaggttg gaggaggcat tggaatctga ttttactagc tgaagggtag
+     5881 ccctgtcaca gagctgactg atagagctta ttccagggca tccttaccat tcatcattgt
+     5941 ctcactggct cctttccaaa aacttcctcc attaagaggg tcagagcctc ggcctccttg
+     6001 ccttctagtg acaatttcct ttattttagg ggattttaaa ttagggtgct taaggacttg
+     6061 aagaacatga atgggaagag aatataactc taattaagtc acatgtgtca ttttcctttg
+     6121 gggtgagaga gtggctgttc atgtaatgag acctttctct gcataacttc cttttgtaag
+     6181 acctcaaggg cctccaccag caggtaatat ttcagccgtg atccagtgtg gggagggcac
+     6241 aggtgtaaga gggaagagca tgagctgagt gtacctgaca gtagtggtct ctgttcatgg
+     6301 tatatttgct gctatgagga tcaagactta ggggtgaagt ttgccagttt ctaggaatct
+     6361 ccagaggttg ttccccagaa ccaagcctta actttggtgg tatcttcctg ttaaatgtgg
+     6421 agccagaacc acggcttaaa tgttagacac taggatgatg cccactttgt gccacatgat
+     6481 ggtggctact gcctgtaggc attttccagt gactgaaaga ggctgctagt ggtagggatg
+     6541 aggtatcatc caatttccta aaaagattga acccttcata ttcaccagaa gagtaacagc
+     6601 tgttccccca cctcccacac atctgcatca agctgaagtt ctgtgtcttc atgagctgat
+     6661 ttcacctttg cacagatctt gggggaggtg atgacaatac actctggacc tcagctttgt
+     6721 ctgtctgaag ctgcaggagg cccctgaggg gtggggaaga tggcaggccc accagcgtac
+     6781 cctgtgctga tcatccctct tctctcttct tcagggctcc tgcactgact cctgagacta
+     6841 ttttaactgg gattggttat cacttttctg taacgcctgc ttgtccctgc ccagaattcc
+     6901 cagctgtctg tgtcagcctg tccccctgag atcagagtcc tacagtggct gtcacgcagc
+     6961 caccaggtca tctcctttca tccccacctt gaggcggatg gctgtgaccc tacttcctgc
+     7021 actgacccac agcctctgcc tgtgcacggc cagctgcatc tactcaggcc ccaaggggtt
+     7081 tctgtttcta ttctctcctc agactgctca agagaagcac atgaaaacca ttacctgact
+     7141 ttagagcttt tttacataat taaacatgat cctgagttat ctgtattctg aacttcctta
+     7201 attgagcaga ggcaggaaat cactgcagaa tgaaggaaca taccttgagg tgacccagcc
+     7261 aacctgtgcc cagaaggagg gttgtacctt gaaaagacac tgaaagaatt tggggtgcaa
+     7321 agtcatggtg ggcagaggag gtagaaaatc aactcagttg ttgcatcatt catggttctt
+     7381 tcatattgat gttcagtgca gtggcctgag aatatcccag cctctcttct ggtttggtga
+     7441 gtgctatata agtaaacatg gtggaattgt ttgggggcag atatagtgac ccttggtcac
+     7501 tggtgtttca aacattctgg caagtcacat caatcaagaa taatttttac ttttaagaaa
+     7561 gcataaccag caataaaagt attatttttg attctaaatg a
+//
+
