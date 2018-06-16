@@ -1,0 +1,310 @@
+LOCUS       NM_000550               2876 bp    mRNA    linear   PRI 01-APR-2018
+DEFINITION  Homo sapiens tyrosinase related protein 1 (TYRP1), mRNA.
+ACCESSION   NM_000550
+VERSION     NM_000550.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2876)
+  AUTHORS   Gilot D, Migault M, Bachelot L, Journe F, Rogiers A, Donnou-Fournet
+            E, Mogha A, Mouchet N, Pinel-Marie ML, Mari B, Montier T, Corre S,
+            Gautron A, Rambow F, El Hajj P, Ben Jouira R, Tartare-Deckert S,
+            Marine JC, Felden B, Ghanem G and Galibert MD.
+  TITLE     A non-coding function of TYRP1 mRNA promotes melanoma growth
+  JOURNAL   Nat. Cell Biol. 19 (11), 1348-1357 (2017)
+   PUBMED   28991221
+  REMARK    GeneRIF: TYRP1-dependent miR-16 sequestration can also be overcome
+            in vivo by using small oligonucleotides that mask miR-16-binding
+            sites on TYRP1 mRNA.
+REFERENCE   2  (bases 1 to 2876)
+  AUTHORS   Soengas MS and Hernando E.
+  TITLE     TYRP1 mRNA goes fishing for miRNAs in melanoma
+  JOURNAL   Nat. Cell Biol. 19 (11), 1311-1312 (2017)
+   PUBMED   29087386
+  REMARK    GeneRIF: The mRNA of TYRP1 is now found to sequester the tumour
+            suppressor miR-16.
+REFERENCE   3  (bases 1 to 2876)
+  AUTHORS   Lyu Y, Huang J, Zhang K, Liu G, Gao M, Gai Z and Liu Y.
+  TITLE     [Diagnosis of a case with oculocutaneous albinism type with next
+            generation exome capture sequencing]
+  JOURNAL   Zhonghua Yi Xue Yi Chuan Xue Za Zhi 34 (1), 73-77 (2017)
+   PUBMED   28186599
+  REMARK    GeneRIF: DNA sequencing showed that the patient has carried
+            compound heterozygous mutations of the tyrosinase related protein
+            (TYRP1) gene, namely c.1214C>A (p.T405N) and c.1333dupG, which were
+            inherited from his mother and father, respectively.
+REFERENCE   4  (bases 1 to 2876)
+  AUTHORS   Norton HL, Hanna M, Werren E and Friedlaender J.
+  TITLE     The rs387907171 SNP in TYRP1 is not associated with blond hair
+            color on the Island of Bougainville
+  JOURNAL   Am. J. Hum. Biol. 28 (3), 431-435 (2016)
+   PUBMED   26450459
+  REMARK    GeneRIF: The rs387907171 SNP in TYRP1 exhibits strong allele
+            frequency differences among islands in Northern Island Melanesia.
+            Its absence from Bougainville, as well as the weak association with
+            decreased hair color, indicates that additional alleles contribute
+            to the blondism phenotype.
+REFERENCE   5  (bases 1 to 2876)
+  AUTHORS   He J, Zheng M, Zhang G and Hua A.
+  TITLE     [Suspected pathogenic mutation identified in two cases with
+            oculocutaneous albinism]
+  JOURNAL   Zhonghua Yi Xue Yi Chuan Xue Za Zhi 32 (4), 509-511 (2015)
+   PUBMED   26252096
+  REMARK    GeneRIF: Mutation in TYRP1 is associated with oculocutaneous
+            albinism.
+REFERENCE   6  (bases 1 to 2876)
+  AUTHORS   Lowings P, Yavuzer U and Goding CR.
+  TITLE     Positive and negative elements regulate a melanocyte-specific
+            promoter
+  JOURNAL   Mol. Cell. Biol. 12 (8), 3653-3662 (1992)
+   PUBMED   1321344
+REFERENCE   7  (bases 1 to 2876)
+  AUTHORS   Murty VV, Bouchard B, Mathew S, Vijayasaradhi S and Houghton AN.
+  TITLE     Assignment of the human TYRP (brown) locus to chromosome region
+            9p23 by nonradioactive in situ hybridization
+  JOURNAL   Genomics 13 (1), 227-229 (1992)
+   PUBMED   1577487
+REFERENCE   8  (bases 1 to 2876)
+  AUTHORS   Shibata K, Takeda K, Tomita Y, Tagami H and Shibahara S.
+  TITLE     Downstream region of the human tyrosinase-related protein gene
+            enhances its promoter activity
+  JOURNAL   Biochem. Biophys. Res. Commun. 184 (2), 568-575 (1992)
+   PUBMED   1575733
+REFERENCE   9  (bases 1 to 2876)
+  AUTHORS   Colman MA, Shibahara S, Kwon B, Jenkins T and Ramsay M.
+  TITLE     A two allele XbaI RFLP at the catalase 2 locus
+  JOURNAL   Nucleic Acids Res. 19 (4), 960 (1991)
+   PUBMED   1673236
+REFERENCE   10 (bases 1 to 2876)
+  AUTHORS   Halaban R and Moellmann G.
+  TITLE     Murine and human b locus pigmentation genes encode a glycoprotein
+            (gp75) with catalase activity
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 87 (12), 4809-4813 (1990)
+   PUBMED   1693779
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA278582.1, X51420.1,
+            BC052608.1, CD679533.1 and AL600654.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Mar 14, 2008 this sequence version replaced NM_000550.1.
+            
+            Summary: This gene encodes a melanosomal enzyme that belongs to the
+            tyrosinase family and plays an important role in the melanin
+            biosynthetic pathway. Defects in this gene are the cause of rufous
+            oculocutaneous albinism and oculocutaneous albinism type III.
+            [provided by RefSeq, Mar 2009].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X51420.1, SRR1803615.22479.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2142348
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-49                DA278582.1         1-49
+            50-1753             X51420.1           1-1704
+            1754-1914           BC052608.1         1673-1833
+            1915-2089           X51420.1           1870-2044
+            2090-2215           CD679533.1         436-561
+            2216-2808           X51420.1           2167-2759
+            2809-2868           X51420.1           2761-2820
+            2869-2874           AL600654.1         14-19
+            2875-2876           AL600654.1         23-24
+FEATURES             Location/Qualifiers
+     source          1..2876
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9p23"
+     gene            1..2876
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /note="tyrosinase related protein 1"
+                     /db_xref="GeneID:7306"
+                     /db_xref="HGNC:HGNC:12450"
+                     /db_xref="MIM:115501"
+     exon            1..93
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    8..10
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /note="upstream in-frame stop codon"
+     exon            94..563
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             179..1792
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /EC_number="1.14.18.-"
+                     /note="5,6-dihydroxyindole-2-carboxylic acid oxidase;
+                     catalase B; DHICA oxidase; glycoprotein 75; melanoma
+                     antigen gp75"
+                     /codon_start=1
+                     /product="5,6-dihydroxyindole-2-carboxylic acid oxidase
+                     precursor"
+                     /protein_id="NP_000541.1"
+                     /db_xref="CCDS:CCDS34990.1"
+                     /db_xref="GeneID:7306"
+                     /db_xref="HGNC:HGNC:12450"
+                     /db_xref="MIM:115501"
+                     /translation="MSAPKLLSLGCIFFPLLLFQQARAQFPRQCATVEALRSGMCCPD
+                     LSPVSGPGTDRCGSSSGRGRCEAVTADSRPHSPQYPHDGRDDREVWPLRFFNRTCHCN
+                     GNFSGHNCGTCRPGWRGAACDQRVLIVRRNLLDLSKEEKNHFVRALDMAKRTTHPLFV
+                     IATRRSEEILGPDGNTPQFENISIYNYFVWTHYYSVKKTFLGVGQESFGEVDFSHEGP
+                     AFLTWHRYHLLRLEKDMQEMLQEPSFSLPYWNFATGKNVCDICTDDLMGSRSNFDSTL
+                     ISPNSVFSQWRVVCDSLEDYDTLGTLCNSTEDGPIRRNPAGNVARPMVQRLPEPQDVA
+                     QCLEVGLFDTPPFYSNSTNSFRNTVEGYSDPTGKYDPAVRSLHNLAHLFLNGTGGQTH
+                     LSPNDPIFVLLHTFTDAVFDEWLRRYNADISTFPLENAPIGHNRQYNMVPFWPPVTNT
+                     EMFVTAPDNLGYTYEIQWPSREFSVPEIIAIAVVGALLLVALIFGTASYLIRARRSMD
+                     EANQPLLTDQYQCYAEEYEKLQNPNQSVV"
+     sig_peptide     179..250
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     251..1789
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /product="5,6-dihydroxyindole-2-carboxylic acid oxidase"
+     misc_feature    1610..1681
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P17643.2);
+                     transmembrane region"
+     exon            564..886
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            887..1091
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1092..1259
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1260..1439
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1440..1586
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1587..2876
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /inference="alignment:Splign:2.1.0"
+     STS             1587..1962
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /standard_name="GDB:555709"
+                     /db_xref="UniSTS:157694"
+     STS             1588..1843
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /standard_name="GDB:181637"
+                     /db_xref="UniSTS:155323"
+     STS             1697..1846
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /standard_name="G44332"
+                     /db_xref="UniSTS:95119"
+     STS             2488..2679
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /standard_name="RH18096"
+                     /db_xref="UniSTS:67822"
+     STS             2492..2833
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+                     /standard_name="D9S1701"
+                     /db_xref="UniSTS:6553"
+     regulatory      2863..2868
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TYRP1"
+                     /gene_synonym="b-PROTEIN; CAS2; CATB; GP75; OCA3; TRP;
+                     TRP1; TYRP"
+ORIGIN      
+        1 acagttctga cgtgagagga caagaaacac aagcaaatat aaaacattca attctaagag
+       61 aagttcatca gagacatcct tcaggattgt gagctggatt ttcctctacg tgcttcagtc
+      121 ttctctacac aaagagctgc aaaccaggtc tttgttttgc actcttattt caagcagaat
+      181 gagtgctcct aaactcctct ctctgggctg tatcttcttc cccttgctac tttttcagca
+      241 ggcccgggct caattcccaa gacagtgtgc cactgttgag gctttgagaa gtggtatgtg
+      301 ttgcccagac ctgtcccctg tgtctgggcc tgggacagac cgctgtggct catcatcagg
+      361 gaggggcaga tgtgaggcag tgactgcaga ctcccggccc cacagccctc agtatcccca
+      421 tgatggcaga gatgatcggg aggtctggcc cttgcgcttc ttcaatagga catgtcactg
+      481 caacggcaat ttctcaggac acaactgtgg gacgtgccgt cctggctgga gaggagctgc
+      541 ctgtgaccag agggttctca tagtcaggag aaatcttctg gacttaagta aagaagaaaa
+      601 gaaccacttt gtccgggccc tggatatggc aaagcgcaca actcaccctt tatttgtcat
+      661 tgccaccagg agatcagaag aaatactggg gccagatggc aacacgccac aatttgagaa
+      721 catttccatt tataactact ttgtttggac acactattac tcagtcaaaa agactttcct
+      781 tggggtagga caggaaagct ttggtgaagt ggatttctct catgagggac cagcttttct
+      841 cacatggcac aggtaccacc tcctgcgtct ggagaaagac atgcaggaaa tgttgcaaga
+      901 gccttctttc tcccttcctt actggaattt tgcaacgggg aaaaatgtct gtgatatctg
+      961 cacggatgac ttgatgggat ccagaagcaa ctttgattcc actctaataa gcccaaactc
+     1021 tgtcttttct caatggcgag tggtctgtga ctccttggaa gattatgata ccctgggaac
+     1081 actttgtaac agcaccgagg atgggccaat taggagaaat ccagctggaa atgtggccag
+     1141 accaatggtg caacgtcttc ctgaaccaca ggatgtcgct cagtgcttgg aagttggttt
+     1201 atttgacacg cctccttttt attccaactc tacaaacagt ttccgaaaca cagtggaagg
+     1261 ttacagtgac cccacgggaa agtatgaccc tgctgttcga agtcttcaca atttggctca
+     1321 tctattcctg aatggaacag ggggacaaac ccatttgtct ccaaatgatc ctatttttgt
+     1381 cctcctgcac accttcacag atgcagtctt tgatgaatgg ctgaggagat acaatgctga
+     1441 tatatccaca tttccattgg aaaatgcccc tattggacat aatagacaat acaacatggt
+     1501 gccattctgg cccccagtca ccaacacaga aatgtttgtt actgctccag acaacctggg
+     1561 atacacttat gaaattcaat ggccaagtcg ggagtttagt gtacctgaga taattgccat
+     1621 agcagtagtt ggcgctttgt tactggttgc actcattttt gggactgctt cttatctgat
+     1681 tcgtgccaga cgcagtatgg atgaagctaa ccagcctctc ctcactgatc agtatcaatg
+     1741 ctatgctgaa gaatatgaaa aactccagaa tcctaatcag tctgtggtct aacaaatgcc
+     1801 ctactctctt atgcattagt atcacaaaac cacctggttg aatataatag attgagttat
+     1861 taactgtatt ttctttcact ttattacctt ctttctaata caagcatatg ttagcattaa
+     1921 agttctaggc atacttttca aagctgggaa gaccctttca gaatcttttc aatgggtttt
+     1981 aattttcagt tctatttaaa atggtgaatg acactaaact ccatgatatt taaggatagt
+     2041 gtgaagatct ttggcatgat ttaaaggttg agtatgtgaa gatataagta agtgaactac
+     2101 catgctttgt ttacgtgtaa aggaaaataa tgtttgatag taaatgtcca cttaaaatac
+     2161 atgaatgggc atttctaaaa tgttaaaaca taaacacatt tccattcatg gatatttgtc
+     2221 aacagattta aagaaaacca cagttattaa ttaaagaaaa ttaattatgt gtagttataa
+     2281 accaatgaaa ttttgattaa ccttttcaaa ttaatgttcc agtttgaaga ccaatcaaat
+     2341 atattattta gtcaacatat actatttagt ctcaggttca aggctacaac aaaaatcacc
+     2401 atctttgtca aactttggag agggaaaatc ttcactttct taagcaacaa tggatattgc
+     2461 ctgtgtttgc cactgtgttt ccctgcctct caattcgctg aaaaaggaac tacctatcct
+     2521 tacatttcac ctactaatgt ctcttctaac atcttagagg tccatggaga aggcatatgg
+     2581 agaacatgtt ttatactgct ctataaatag tattccaatc actgtgctta atttaaatag
+     2641 cattatctta tcatttatca gccttttatg tattttccaa gtaaaatatt aacatattat
+     2701 ttcattggtc ttctttttta tctggttcta tatgaatgct attttttccc ttctcttcta
+     2761 acatgaaata tattttctct ttttgatctt gtgctatgaa acaatcttcc aaagaactgt
+     2821 ataaggtggt cataagtgaa tattttaatt aaaattggta aaaataaata ataaca
+//
+

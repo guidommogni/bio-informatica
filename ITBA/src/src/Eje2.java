@@ -16,21 +16,74 @@ import org.biojava.nbio.ws.alignment.qblast.NCBIQBlastService;
 
 public class Eje2 {
 
-    public static void eje2() throws Exception {
+    public static void run (String gene) throws Exception {
 
-        String HLA_DQA1 = "MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGPSGQYTH" +
-            "EFDGDEQFYVDLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMI" +
-            "KRYNSTAATNEVPEVTVFSKSPVTLGQPNTLICLVDNIFPPVVNITWLSN" +
-            "GQSVTEGVSETSFLSKSDHSFFKISYLTFLPSADEIYDCKVEHWGLDQPL" +
-            "LKHWEPEIPAPMSELTETVVCALGLSVGLMGIVVGTVFIIQGLRSVGASR" +
-            "HQGPL";
+        String TYR = "MLLAVLYCLLWSFQTSAGHFPRACVSSKNLMEKECCPPWSGDRSPCGQLS" +
+            "GRGSCQNILLSNAPLGPQFPFTGVDDRESWPSVFYNRTCQCSGNFMGFNC" +
+            "GNCKFGFWGPNCTERRLLVRRNIFDLSAPEKDKFFAYLTLAKHTISSDYV" +
+            "IPIGTYGQMKNGSTPMFNDINIYDLFVWMHYYVSMDALLGGSEIWRDIDF" +
+            "AHEAPAFLPWHRLFLLRWEQEIQKLTGDENFTIPYWDWRDAEKCDICTDE" +
+            "YMGGQHPTNPNLLSPASFFSSWQIVCSRLEEYNSHQSLCNGTPEGPLRRN" +
+            "PGNHDKSRTPRLPSSADVEFCLSLTQYESGSMDKAANFSFRNTLEGFASP" +
+            "LTGIADASQSSMHNALHIYMNGTMSQVQGSANDPIFLLHHAFVDSIFEQW" +
+            "LRRHRPLQEVYPEANAPIGHNRESYMVPFIPLYRNGDFFISSKDLGYDYS" +
+            "YLQDSDPDSFQDYIKSYLEQASRIWSWLLGAAMVGAVLTALLAGLVSLLC" +
+            "RHKRKQLPEEKQPLLMEKEDYHSLYQSHL";
 
-        String HLA_DQB1 = "MSWKKALRIPGDLRVATVTLMLAMLSSLLAEGRDSPEDFVFQFKGMCYFT" +
-            "NGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVL" +
-            "EGTRAELDTVCRHNYEVAFRGILQRRVEPTVTISPSRTEALNHHNLLVCS" +
-            "VTDFYPGQIKVRWFRNDQEETAGVVSTPLIRNGDWTFQILVMLEMTPQRG" +
-            "DVYTCHVEHPSLQSPITVEWRAQSESAQSKMLSGVGGFVLGLIFLGLGLI" +
-            "IRQRSQKGPQGPPPAGLLHL";
+        String OCA2 = "MHLEGRDGRRYPGAPAVELLQTSVPSGLAELVAGKRRLPRGAGGADPSHS" +
+            "CPRGAAGQSSWAPAGQEFASFLTKGRSHSSLPQMSSSRSKDSCFTENTPL" +
+            "LRNSLQEKGSRCIPVYHPEFITAEESWEDSSADWERRYLLSREVSGLSAS" +
+            "ASSEKGDLLDSPHIRLRLSKLRRCVQWLKVMGLFAFVVLCSILFSLYPDQ" +
+            "GKLWQLLALSPLENYSVNLSSHVDSTLLQVDLAGALVASGPSRPGREEHI" +
+            "VVELTQADALGSRWRRPQQVTHNWTVYLNPRRSEHSVMSRTFEVLTRETV" +
+            "SISIRASLQQTQAVPLLMAHQYLRGSVETQVTIATAILAGVYALIIFEIV" +
+            "HRTLAAMLGSLAALAALAVIGDRPSLTHVVEWIDFETLALLFGMMILVAI" +
+            "FSETGFFDYCAVKAYRLSRGRVWAMIIMLCLIAAVLSAFLDNVTTMLLFT" +
+            "PVTIRLCEVLNLDPRQVLIAEVIFTNIGGAATAIGDPPNVIIVSNQELRK" +
+            "MGLDFAGFTAHMFIGICLVLLVCFPLLRLLYWNRKLYNKEPSEIVELKHE" +
+            "IHVWRLTAQRISPASREETAVRRLLLGKVLALEHLLARRLHTFHRQISQE" +
+            "DKNWETNIQELQKKHRISDGILLAKCLTVLGFVIFMFFLNSFVPGIHLDL" +
+            "GWIAILGAIWLLILADIHDFEIILHRVEWATLLFFAALFVLMEALAHLHL" +
+            "IEYVGEQTALLIKMVPEEQRLIAAIVLVVWVSALASSLIDNIPFTATMIP" +
+            "VLLNLSHDPEVGLPAPPLMYALAFGACLGGNGTLIGASANVVCAGIAEQH" +
+            "GYGFSFMEFFRLGFPMMVVSCTVGMCYLLVAHVVVGWN";
+
+        String TYRP1 = "MSAPKLLSLGCIFFPLLLFQQARAQFPRQCATVEALRSGMCCPDLSPVSG" +
+            "PGTDRCGSSSGRGRCEAVTADSRPHSPQYPHDGRDDREVWPLRFFNRTCH" +
+            "CNGNFSGHNCGTCRPGWRGAACDQRVLIVRRNLLDLSKEEKNHFVRALDM" +
+            "AKRTTHPLFVIATRRSEEILGPDGNTPQFENISIYNYFVWTHYYSVKKTF" +
+            "LGVGQESFGEVDFSHEGPAFLTWHRYHLLRLEKDMQEMLQEPSFSLPYWN" +
+            "FATGKNVCDICTDDLMGSRSNFDSTLISPNSVFSQWRVVCDSLEDYDTLG" +
+            "TLCNSTEDGPIRRNPAGNVARPMVQRLPEPQDVAQCLEVGLFDTPPFYSN" +
+            "STNSFRNTVEGYSDPTGKYDPAVRSLHNLAHLFLNGTGGQTHLSPNDPIF" +
+            "VLLHTFTDAVFDEWLRRYNADISTFPLENAPIGHNRQYNMVPFWPPVTNT" +
+            "EMFVTAPDNLGYTYEIQWPSREFSVPEIIAIAVVGALLLVALIFGTASYL" +
+            "IRARRSMDEANQPLLTDQYQCYAEEYEKLQNPNQSVV";
+
+        String SLC45A2 = "MGSNSGQAGRHIYKSLADDGPFDSVEPPKRPTSRLIMHSMAMFGREFCYA" +
+            "VEAAYVTPVLLSVGLPSSLYSIVWFLSPILGFLLQPVVGSASDHCRSRWG" +
+            "RRRPYILTLGVMMLVGMALYLNGATVVAALIANPRRKLVWAISVTMIGVV" +
+            "LFDFAADFIDGPIKAYLFDVCSHQDKEKGLHYHALFTGFGGALGYLLGAI" +
+            "DWAHLELGRLLGTEFQVMFFFSALVLTLCFTVHLCSISEAPLTEVAKGIP" +
+            "PQQTPQDPPLSSDGMYEYGSIEKVKNGYVNPELAMQGAKNKNHAEQTRRA" +
+            "MTLKSLLRALVNMPPHYRYLCISHLIGWTAFLSNMLFFTDFMGQIVYRGD" +
+            "PYSAHNSTEFLIYERGVEVGCWGFCINSVFSSLYSYFQKVLVSYIGLKGL" +
+            "YFTGYLLFGLGTGFIGLFPNVYSTLVLCSLFGVMSSTLYTVPFNLITEYH" +
+            "REEEKEVCCH";
+
+        String currentGene;
+
+        if ("TYR".equals(gene.toUpperCase())) {
+            currentGene = TYR;
+        } else if ("SLC45A2".equals(gene.toUpperCase())) {
+            currentGene = SLC45A2;
+        } else if ("TYRP1".equals(gene.toUpperCase())) {
+            currentGene = TYRP1;
+        } else if ("OCA2".equals(gene.toUpperCase())) {
+            currentGene = OCA2;
+        } else {
+            throw new Exception("NO VALID GENE --> AVAILABLE GENES : TYR, SLC45A2, OCA2, TYRP1");
+        }
 
 
         final NCBIQBlastService ncbiqBlastService = new NCBIQBlastService();
@@ -39,7 +92,7 @@ public class Eje2 {
         props.setBlastDatabase("swissprot");
         NCBIQBlastOutputProperties outputProps = new NCBIQBlastOutputProperties();
         outputProps.setOutputOption(BlastOutputParameterEnum.ALIGNMENTS,"200");
-        String rid = ncbiqBlastService.sendAlignmentRequest(HLA_DQB1, props);
+        String rid = ncbiqBlastService.sendAlignmentRequest(currentGene, props);
 
         // wait until results become available. Alternatively, one can do other computations/send other alignment requests
         while (!ncbiqBlastService.isReady(rid)) {
@@ -47,26 +100,34 @@ public class Eje2 {
             Thread.sleep(5000);
         }
 
-        final File f = new File("blastOut-b.txt");
+        final File f = new File(gene.toUpperCase() + "_blast.txt");
         final File baseSequencesEje3File = new File("eje3_base_sequences.txt");
+
         final InputStream in = ncbiqBlastService.getAlignmentResults(rid, outputProps);
+
         final BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+
         final FileWriter eje3FileWriter = new FileWriter(baseSequencesEje3File);
         final FileWriter writer = new FileWriter(f);
+
         String line;
         Pattern nameSequencePattern = Pattern.compile("\\s<Hit_id>(.*)</Hit_id>");
-        Pattern proteinSequencePattern = Pattern.compile("\\s<Hsp_qseq>(-*?\\w+)</Hsp_qseq>");
+        Pattern proteinSequencePattern = Pattern.compile("\\s<Hsp_qseq>(.*)</Hsp_qseq>");
 
+        boolean flag = false;
         Matcher proteinMatcher, nameMatcher;
         while ((line = reader.readLine()) != null) {
-            writer.write(line + "\n");
+            writer.write(line + '\n');
+
             nameMatcher = nameSequencePattern.matcher(line);
             if (nameMatcher.find()) {
-                eje3FileWriter.append(nameMatcher.group(0) + ":");
+                flag = true;
+                eje3FileWriter.write(nameMatcher.group(1) + ":");
             }
             proteinMatcher = proteinSequencePattern.matcher(line);
-            if (proteinMatcher.find()) {
-                eje3FileWriter.append(proteinMatcher.group(0) + "\n");
+            if (proteinMatcher.find() && flag) {
+                flag = false;
+                eje3FileWriter.write(proteinMatcher.group(1) + "\n");
             }
         }
 

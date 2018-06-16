@@ -1,0 +1,164 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sat 16 Jun 2018 18:52:52
+# Commandline: patmatmotifs
+#    -sequence TYRP1.fasta
+#    -outfile TYRP1_eje5.txt
+# Report_format: dbmotif
+# Report_file: TYRP1_eje5.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_000550.2     from: 1   to: 2876
+# HitCount: 14
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/local/emboss/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 2777 of sequence
+End = position 2788 of sequence
+
+Motif = EGF_1
+
+ATTTTCTCTTTTTGATCTTGTG
+     |          |
+  2777          2788
+
+Length = 12
+Start = position 1467 of sequence
+End = position 1478 of sequence
+
+Motif = EGF_1
+
+AAATGCCCCTATTGGACATAAT
+     |          |
+  1467          1478
+
+Length = 12
+Start = position 1359 of sequence
+End = position 1370 of sequence
+
+Motif = EGF_1
+
+TTTGTCTCCAAATGATCCTATT
+     |          |
+  1359          1370
+
+Length = 12
+Start = position 819 of sequence
+End = position 830 of sequence
+
+Motif = EGF_1
+
+TTTCTCTCATGAGGGACCAGCT
+     |          |
+   819          830
+
+Length = 12
+Start = position 664 of sequence
+End = position 675 of sequence
+
+Motif = EGF_1
+
+ATTGCCACCAGGAGATCAGAAG
+     |          |
+   664          675
+
+Length = 12
+Start = position 197 of sequence
+End = position 208 of sequence
+
+Motif = EGF_1
+
+AACTCCTCTCTCTGGGCTGTAT
+     |          |
+   197          208
+
+Length = 14
+Start = position 2812 of sequence
+End = position 2825 of sequence
+
+Motif = THIOLASE_3
+
+TTCCAAAGAACTGTATAAGGTGGT
+     |            |
+  2812            2825
+
+Length = 14
+Start = position 16 of sequence
+End = position 29 of sequence
+
+Motif = THIOLASE_3
+
+CGTGAGAGGACAAGAAACACAAGC
+     |            |
+    16            29
+
+Length = 9
+Start = position 2379 of sequence
+End = position 2387 of sequence
+
+Motif = 2FE2S_FER_1
+
+AGGTTCAAGGCTACAACAA
+     |       |
+  2379       2387
+
+Length = 37
+Start = position 222 of sequence
+End = position 258 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CTTCCCCTTGCTACTTTTTCAGCAGGCCCGGGCTCAATTCCCAAGAC
+     |                                   |
+   222                                   258
+
+Length = 36
+Start = position 188 of sequence
+End = position 223 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GTGCTCCTAAACTCCTCTCTCTGGGCTGTATCTTCTTCCCCTTGCT
+     |                                  |
+   188                                  223
+
+Length = 39
+Start = position 604 of sequence
+End = position 642 of sequence
+
+Motif = CTCK_1
+
+AAGAACCACTTTGTCCGGGCCCTGGATATGGCAAAGCGCACAACTCACC
+     |                                     |
+   604                                     642
+
+Length = 41
+Start = position 1209 of sequence
+End = position 1249 of sequence
+
+Motif = VWFC_1
+
+TGACACGCCTCCTTTTTATTCCAACTCTACAAACAGTTTCCGAAACACAGT
+     |                                       |
+  1209                                       1249
+
+Length = 53
+Start = position 197 of sequence
+End = position 249 of sequence
+
+Motif = VWFC_1
+
+AACTCCTCTCTCTGGGCTGTATCTTCTTCCCCTTGCTACTTTTTCAGCAGGCCCGGGCTCAAT
+     |                                                   |
+   197                                                   249
+
+
+#---------------------------------------
+#---------------------------------------

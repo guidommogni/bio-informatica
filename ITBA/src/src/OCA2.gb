@@ -1,0 +1,494 @@
+LOCUS       NM_000275               3154 bp    mRNA    linear   PRI 09-MAY-2018
+DEFINITION  Homo sapiens OCA2 melanosomal transmembrane protein (OCA2),
+            transcript variant 1, mRNA.
+ACCESSION   NM_000275
+VERSION     NM_000275.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3154)
+  AUTHORS   Andrade ES, Fracasso NCA, Strazza Junior PS, Simoes AL and
+            Mendes-Junior CT.
+  TITLE     Associations of OCA2-HERC2 SNPs and haplotypes with human
+            pigmentation characteristics in the Brazilian population
+  JOURNAL   Leg Med (Tokyo) 24, 78-83 (2017)
+   PUBMED   28081795
+  REMARK    GeneRIF: Evaluated the association of seven OCA2-HERC2 SNPs and
+            haplotypes with pigmentation characteristics (eye, skin, hair and
+            freckles) in the highly admixed and phenotypically heterogeneous
+            Brazilian population. Such SNPs and haplotypes could be deemed as
+            good predictors for the presence of freckles and for skin, eye and
+            hair pigmentation in the Brazilian population.
+REFERENCE   2  (bases 1 to 3154)
+  AUTHORS   Yang Z, Zhong H, Chen J, Zhang X, Zhang H, Luo X, Xu S, Chen H, Lu
+            D, Han Y, Li J, Fu L, Qi X, Peng Y, Xiang K, Lin Q, Guo Y, Li M,
+            Cao X, Zhang Y, Liao S, Peng Y, Zhang L, Guo X, Dong S, Liang F,
+            Wang J, Willden A, Seang Aun H, Serey B, Sovannary T, Bunnath L,
+            Samnom H, Mardon G, Li Q, Meng A, Shi H and Su B.
+  TITLE     A Genetic Mechanism for Convergent Skin Lightening during Recent
+            Human Evolution
+  JOURNAL   Mol. Biol. Evol. 33 (5), 1177-1187 (2016)
+   PUBMED   26744415
+  REMARK    GeneRIF: We analyzed five SNPs located in the 44.2 kb region and
+            three SNPs outside this region with strong selective signals. Under
+            the additive genetic model, we detected a significant association
+            of rs1800414 with skin pigmentation for both exposed and unexposed
+            areas consistent with a previous association analysis of rs1800414
+            No significant association was observed for the other seven SNPs (P
+            > 0.05)
+REFERENCE   3  (bases 1 to 3154)
+  AUTHORS   Eaton K, Edwards M, Krithika S, Cook G, Norton H and Parra EJ.
+  TITLE     Association study confirms the role of two OCA2 polymorphisms in
+            normal skin pigmentation variation in East Asian populations
+  JOURNAL   Am. J. Hum. Biol. 27 (4), 520-525 (2015)
+   PUBMED   25809079
+  REMARK    GeneRIF: Two nonsynonymous OCA2 polymorphisms (rs1800414 and
+            rs74653330) are independently associated with normal skin
+            pigmentation variation in East Asian populations and have very
+            different frequency distributions in East Asia.
+REFERENCE   4  (bases 1 to 3154)
+  AUTHORS   Wang Y, Wang Z, Chen M, Fan N, Yang J, Liu L, Wang Y and Liu X.
+  TITLE     Mutational Analysis of the TYR and OCA2 Genes in Four Chinese
+            Families with Oculocutaneous Albinism
+  JOURNAL   PLoS ONE 10 (4), e0125651 (2015)
+   PUBMED   25919014
+  REMARK    GeneRIF: The two mutations (c.1114delG in the TYR gene and
+            c.1426A>G in the OCA2 gene) may be responsible for partial clinical
+            manifestations of Oculocutaneous albinism.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3154)
+  AUTHORS   Lee ST, Nicholls RD, Jong MT, Fukai K and Spritz RA.
+  TITLE     Organization and sequence of the human P gene and identification of
+            a new family of transport proteins
+  JOURNAL   Genomics 26 (2), 354-363 (1995)
+   PUBMED   7601462
+REFERENCE   6  (bases 1 to 3154)
+  AUTHORS   Rinchik EM, Bultman SJ, Horsthemke B, Lee ST, Strunk KM, Spritz RA,
+            Avidano KM, Jong MT and Nicholls RD.
+  TITLE     A gene for the mouse pink-eyed dilution locus and for human type II
+            oculocutaneous albinism
+  JOURNAL   Nature 361 (6407), 72-76 (1993)
+   PUBMED   8421497
+REFERENCE   7  (bases 1 to 3154)
+  AUTHORS   Lewis,R.A.
+  TITLE     Oculocutaneous Albinism Type 2
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301410
+REFERENCE   8  (bases 1 to 3154)
+  AUTHORS   Ramsay M, Colman MA, Stevens G, Zwane E, Kromberg J, Farrall M and
+            Jenkins T.
+  TITLE     The tyrosinase-positive oculocutaneous albinism locus maps to
+            chromosome 15q11.2-q12
+  JOURNAL   Am. J. Hum. Genet. 51 (4), 879-884 (1992)
+   PUBMED   1415228
+REFERENCE   9  (bases 1 to 3154)
+  AUTHORS   Gardner JM, Nakatsu Y, Gondo Y, Lee S, Lyon MF, King RA and
+            Brilliant MH.
+  TITLE     The mouse pink-eyed dilution gene: association with human
+            Prader-Willi and Angelman syndromes
+  JOURNAL   Science 257 (5073), 1121-1124 (1992)
+   PUBMED   1509264
+REFERENCE   10 (bases 1 to 3154)
+  AUTHORS   Ludowese CJ, Thompson KJ, Sekhon GS and Pauli RM.
+  TITLE     Absence of predictable phenotypic expression in proximal 15q
+            duplications
+  JOURNAL   Clin. Genet. 40 (3), 194-201 (1991)
+   PUBMED   1773534
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC012097.1 and M99564.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Sep 14, 2007 this sequence version replaced NM_000275.1.
+            
+            Summary: This gene encodes the human homolog of the mouse p
+            (pink-eyed dilution) gene. The encoded protein is believed to be an
+            integral membrane protein involved in small molecule transport,
+            specifically tyrosine, which is a precursor to melanin synthesis.
+            It is involved in mammalian pigmentation, where it may control skin
+            color variation and act as a determinant of brown or blue eye
+            color. Mutations in this gene result in type 2 oculocutaneous
+            albinism. Alternative splicing results in multiple transcript
+            variants. [provided by RefSeq, Jul 2014].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: M99564.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-880               BC012097.1         1-880
+            881-2449            M99564.1           823-2391
+            2450-2473           BC012097.1         2378-2401
+            2474-3128           M99564.1           2416-3070
+            3129-3154           BC012097.1         3057-3082
+FEATURES             Location/Qualifiers
+     source          1..3154
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="15"
+                     /map="15q12-q13.1"
+     gene            1..3154
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /note="OCA2 melanosomal transmembrane protein"
+                     /db_xref="GeneID:4948"
+                     /db_xref="HGNC:HGNC:8101"
+                     /db_xref="MIM:611409"
+     exon            1..89
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            90..337
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             111..2627
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /note="isoform 1 is encoded by transcript variant 1; eye
+                     color 2 (central brown); hair color 3 (brown);
+                     oculocutaneous albinism II (pink-eye dilution homolog,
+                     mouse); eye color 3 (brown); melanocyte-specific
+                     transporter protein; total brown iris pigmentation;
+                     pink-eyed dilution protein homolog; P-protein"
+                     /codon_start=1
+                     /product="P protein isoform 1"
+                     /protein_id="NP_000266.2"
+                     /db_xref="CCDS:CCDS10020.1"
+                     /db_xref="GeneID:4948"
+                     /db_xref="HGNC:HGNC:8101"
+                     /db_xref="MIM:611409"
+                     /translation="MHLEGRDGRRYPGAPAVELLQTSVPSGLAELVAGKRRLPRGAGG
+                     ADPSHSCPRGAAGQSSWAPAGQEFASFLTKGRSHSSLPQMSSSRSKDSCFTENTPLLR
+                     NSLQEKGSRCIPVYHPEFITAEESWEDSSADWERRYLLSREVSGLSASASSEKGDLLD
+                     SPHIRLRLSKLRRCVQWLKVMGLFAFVVLCSILFSLYPDQGKLWQLLALSPLENYSVN
+                     LSSHVDSTLLQVDLAGALVASGPSRPGREEHIVVELTQADALGSRWRRPQQVTHNWTV
+                     YLNPRRSEHSVMSRTFEVLTRETVSISIRASLQQTQAVPLLMAHQYLRGSVETQVTIA
+                     TAILAGVYALIIFEIVHRTLAAMLGSLAALAALAVIGDRPSLTHVVEWIDFETLALLF
+                     GMMILVAIFSETGFFDYCAVKAYRLSRGRVWAMIIMLCLIAAVLSAFLDNVTTMLLFT
+                     PVTIRLCEVLNLDPRQVLIAEVIFTNIGGAATAIGDPPNVIIVSNQELRKMGLDFAGF
+                     TAHMFIGICLVLLVCFPLLRLLYWNRKLYNKEPSEIVELKHEIHVWRLTAQRISPASR
+                     EETAVRRLLLGKVLALEHLLARRLHTFHRQISQEDKNWETNIQELQKKHRISDGILLA
+                     KCLTVLGFVIFMFFLNSFVPGIHLDLGWIAILGAIWLLILADIHDFEIILHRVEWATL
+                     LFFAALFVLMEALAHLHLIEYVGEQTALLIKMVPEEQRLIAAIVLVVWVSALASSLID
+                     NIPFTATMIPVLLNLSHDPEVGLPAPPLMYALAFGACLGGNGTLIGASANVVCAGIAE
+                     QHGYGFSFMEFFRLGFPMMVVSCTVGMCYLLVAHVVVGWN"
+     misc_feature    648..701
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1101..1151
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1170..1220
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1263..1313
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1380..1430
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1650..1700
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    1971..2021
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    2052..2102
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    2148..2198
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    2271..2321
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    2391..2441
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     misc_feature    2562..2612
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q04671.2);
+                     transmembrane region"
+     exon            338..436
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            437..625
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            626..683
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            684..756
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            757..917
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            918..1000
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1001..1154
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1155..1226
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1227..1292
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1293..1349
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1350..1474
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1475..1613
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1614..1746
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1747..1894
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1895..1952
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1953..2061
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2062..2189
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2190..2249
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2250..2354
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2355..2448
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2449..2542
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2543..3140
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /inference="alignment:Splign:2.1.0"
+     STS             2629..2777
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /standard_name="RH69210"
+                     /db_xref="UniSTS:11708"
+     STS             2770..3106
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /standard_name="SHGC-12468"
+                     /db_xref="UniSTS:69890"
+     STS             2967..3106
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /standard_name="D15S1250"
+                     /db_xref="UniSTS:20390"
+     STS             2981..3106
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+                     /standard_name="WI-15852"
+                     /db_xref="UniSTS:20389"
+     regulatory      3114..3119
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+     regulatory      3119..3124
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+     polyA_site      3140
+                     /gene="OCA2"
+                     /gene_synonym="BEY; BEY1; BEY2; BOCA; D15S12; EYCL; EYCL2;
+                     EYCL3; HCL3; P; PED; SHEP1"
+ORIGIN      
+        1 cttacttcga aggctgtgct ccgctcacca tccagagcgg aggtgcggac cttaaactca
+       61 ctcctggaga aagatctgca agtgcgcaga gagaagactg gcagtggagc atgcatctgg
+      121 agggcagaga cggcaggcgg taccccggcg cgccggcggt ggagctcctg cagacgtccg
+      181 tgcccagcgg actcgctgaa cttgtggccg gcaagcgcag gcttcctcgg ggagccggtg
+      241 gagctgaccc ctcgcactcc tgccccaggg gggctgccgg gcagagctct tgggctcctg
+      301 caggccagga gtttgcttca ttcctcacaa aagggaggtc tcactcttct ttgccccaga
+      361 tgtccagctc caggtctaaa gattcctgct ttacagaaaa cactcctttg ctgaggaatt
+      421 ccttacagga gaaagggtca cggtgcatac ctgtttacca tccagagttc atcactgctg
+      481 aagagtcttg ggaagacagc tctgctgact gggagcgaag atacctgcta agcagggagg
+      541 tgtctggtct gtctgcatct gcctcctccg agaagggaga ccttctggac agcccgcaca
+      601 tccgactccg tctttccaag ctgaggcgct gtgtgcagtg gctgaaagtc atgggcctgt
+      661 ttgcctttgt ggtgctgtgt tctattttgt tcagcctata tccggatcaa ggaaagctct
+      721 ggcagctgtt ggccttatca ccgctggaga actactccgt gaaccttagc agccacgtgg
+      781 actccacgct gctgcaggtg gacctggcag gggccctagt ggccagtggg ccgagtcgtc
+      841 ctgggaggga agagcacatc gtggtggagc tgacccaggc tgacgctttg ggctccaggt
+      901 ggcggcggcc acagcaggtc actcacaact ggacggtgta tttaaatccg aggagaagcg
+      961 agcactcagt gatgagcagg acctttgagg tactgaccag agagacggtg tccatcagca
+     1021 tccgggcctc cctgcagcag acccaggctg tccctctttt gatggctcat cagtacctcc
+     1081 gcggaagtgt agaaacccag gtgaccatcg cgacggccat cctcgcgggc gtctacgcgc
+     1141 tgatcatatt tgagatcgtg cacagaactc tggcggccat gctgggttcc cttgcagcac
+     1201 tggcagcact ggctgtgatt ggcgatagac ccagcctgac ccatgtggtg gagtggattg
+     1261 attttgagac gctggccctg ctgtttggca tgatgatctt agtagccata ttttcagaaa
+     1321 cgggattttt cgattattgt gctgtaaagg cataccggct ctcccgggga cgggtgtggg
+     1381 ccatgatcat catgctctgt ctcatcgcgg ccgtcctctc tgccttcttg gacaacgtca
+     1441 ccaccatgct cctcttcacg cctgtgacca taaggttgtg tgaggtgctc aaccttgatc
+     1501 caagacaagt cctgattgca gaagtgatct tcacaaacat tggaggagct gccactgcca
+     1561 tcggggaccc tccaaatgtc attattgttt ccaaccaaga gctgaggaag atgggcctgg
+     1621 actttgccgg attcactgca cacatgttca ttgggatttg ccttgttctc ctggtctgct
+     1681 ttccgctcct cagactcctt tactggaaca gaaagcttta taacaaggaa cccagtgaga
+     1741 ttgttgaact gaagcacgag attcacgtct ggcgcctgac tgctcagcgc atcagcccgg
+     1801 ccagccgcga ggagacagct gtgcgccgcc tgctgctggg gaaggtgctg gcactggagc
+     1861 acctgctcgc ccggaggctg cacaccttcc acagacagat ctcacaggag gacaaaaatt
+     1921 gggagaccaa tatccaagaa ctccaaaaaa agcataggat atctgacggg attctgctcg
+     1981 ccaaatgcct gacagtgttg ggatttgtta tcttcatgtt tttcctcaat tcgtttgtcc
+     2041 ctggcattca tcttgatctt ggatggattg ctattctggg tgccatctgg ttgctaattt
+     2101 tagctgatat tcatgatttt gagataattc tacacagagt ggaatgggca acccttctgt
+     2161 tttttgcagc gctctttgtt ctgatggagg cattggcaca tctccactta atagaatatg
+     2221 ttggagaaca aactgctttg ctaataaaga tggtcccaga ggagcagcgc ctcatagccg
+     2281 ccattgtcct ggtggtgtgg gtctcagccc tggcgtcgtc cctgattgac aacatcccgt
+     2341 tcactgctac catgattccc gtgctcctga acctgagcca cgaccctgag gttggcctgc
+     2401 ccgcaccgcc gctcatgtat gccctggcct tcggtgcttg cctgggaggt aacgggacac
+     2461 tgattggcgc gtcggcaaac gtcgtgtgtg cagggattgc agaacagcat ggatatgggt
+     2521 tctccttcat ggaatttttc aggctgggct tcccaatgat ggttgtgtcc tgcactgttg
+     2581 ggatgtgtta tctccttgtg gctcatgtgg tggtgggatg gaattaatag acatccatct
+     2641 attgctcgaa gactaaagga aacttcatcc atcacaaccc attagtcata aaactaccct
+     2701 gaccccactg tttgaagaag aaaaggtgct taccctggag atgctacaga gacacagtgg
+     2761 aatagacctt gacactaaca ctctaattca agcgaatgtt ggaacaccat gacctcctct
+     2821 gtgtgtcctt tctccccaag gacaaaatgt agaaagatgt gagataactt actcaagatt
+     2881 cccctccaga aaaatacgta tgtttaaaaa cccttcctgc tatacatagg aaaagacaca
+     2941 catccaccta aaattgactg tactgtttaa ctgtcaattc tcctgaggct aaacacagtt
+     3001 tgtttttctt gtaatcactt ttcatgttaa aataatcagc attcaaattg tatgctttct
+     3061 gaatatagac tttctgggaa aaggtttact gctcgtaagg aaacatttta tgtattaaaa
+     3121 taaactgttc cttgataaaa aaaaaaaaaa aaaa
+//
+

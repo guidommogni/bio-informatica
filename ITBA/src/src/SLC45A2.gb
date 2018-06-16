@@ -1,0 +1,351 @@
+LOCUS       NM_001012509            2769 bp    mRNA    linear   PRI 01-MAY-2018
+DEFINITION  Homo sapiens solute carrier family 45 member 2 (SLC45A2),
+            transcript variant 2, mRNA.
+ACCESSION   NM_001012509
+VERSION     NM_001012509.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2769)
+  AUTHORS   Park J, Talukder AH, Lim SA, Kim K, Pan K, Melendez B, Bradley SD,
+            Jackson KR, Khalili JS, Wang J, Creasy C, Pan BF, Woodman SE,
+            Bernatchez C, Hawke D, Hwu P, Lee KM, Roszik J, Lizee G and Yee C.
+  TITLE     SLC45A2: A Melanoma Antigen with High Tumor Selectivity and Reduced
+            Potential for Autoimmune Toxicity
+  JOURNAL   Cancer Immunol Res 5 (8), 618-629 (2017)
+   PUBMED   28630054
+  REMARK    GeneRIF: our study demonstrates the feasibility of using tandem MS
+            as a means of discovering shared immunogenic tumor-associated
+            epitopes and identifies SLC45A2 as a promising immunotherapeutic
+            target for melanoma with high tumor selectivity and reduced
+            potential for autoimmune toxicity
+REFERENCE   2  (bases 1 to 2769)
+  AUTHORS   Haffner MC, Esopi DM, Chaux A, Gurel M, Ghosh S, Vaghasia AM, Tsai
+            H, Kim K, Castagna N, Lam H, Hicks J, Wyhs N, Biswal Shinohara D,
+            Hurley PJ, Simons BW, Schaeffer EM, Lotan TL, Isaacs WB, Netto GJ,
+            De Marzo AM, Nelson WG, An SS and Yegnasubramanian S.
+  TITLE     AIM1 is an actin-binding protein that suppresses cell migration and
+            micrometastatic dissemination
+  JOURNAL   Nat Commun 8 (1), 142 (2017)
+   PUBMED   28747635
+  REMARK    GeneRIF: Data indicate AIM1 (absent in melanoma 1) as an actin
+            binding protein and show that it regulates cytoskeletal remodeling
+            and cell migration in prostate epithelial cells.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2769)
+  AUTHORS   Fracasso NCA, de Andrade ES, Wiezel CEV, Andrade CCF, Zanao LR, da
+            Silva MS, Marano LA, Donadi EA, C Castelli E, Simoes AL and
+            Mendes-Junior CT.
+  TITLE     Haplotypes from the SLC45A2 gene are associated with the presence
+            of freckles and eye, hair and skin pigmentation in Brazil
+  JOURNAL   Leg Med (Tokyo) 25, 43-51 (2017)
+   PUBMED   28457509
+  REMARK    GeneRIF: Evaluating the influence of haplotypes of 12 SNPs within
+            SLC45A2 in the determination of eye, hair and skin pigmentation in
+            a highly admixed population sample and comparing their frequencies
+            with the ones found in data retrieved from the 1000 Genomes
+            Project. Results emphasize the role played by haplotypes at SLC45A2
+            in the determination of pigmentation and reinforce the relevance of
+            SNP L374F in human pigmentation.
+REFERENCE   4  (bases 1 to 2769)
+  AUTHORS   Oki R, Yamada K, Nakano S, Kimoto K, Yamamoto K, Kondo H and Kubota
+            T.
+  TITLE     A Japanese Family With Autosomal Dominant Oculocutaneous Albinism
+            Type 4
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 58 (2), 1008-1016 (2017)
+   PUBMED   28192564
+  REMARK    GeneRIF: All affected members showed a novel heterozygous variant,
+            c.208T>C (p.Y70H), in the SLC45A2 gene, which supported a diagnosis
+            of OCA4.
+REFERENCE   5  (bases 1 to 2769)
+  AUTHORS   Kita R and Fraser HB.
+  TITLE     Local Adaptation of Sun-Exposure-Dependent Gene Expression
+            Regulation in Human Skin
+  JOURNAL   PLoS Genet. 12 (10), e1006382 (2016)
+   PUBMED   27760139
+  REMARK    GeneRIF: Our analysis revealed 10 sun-exposure-dependent gene
+            expression quantitative trait loci (se-eQTLs), including genes
+            involved in skin pigmentation (SLC45A2) and epidermal
+            differentiation (RASSF9).
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2769)
+  AUTHORS   Nakayama K, Fukamachi S, Kimura H, Koda Y, Soemantri A and Ishida
+            T.
+  TITLE     Distinctive distribution of AIM1 polymorphism among major human
+            populations with different skin color
+  JOURNAL   J. Hum. Genet. 47 (2), 92-94 (2002)
+   PUBMED   11916009
+  REMARK    GeneRIF: a single-nucleotide polymorphism that has clear
+            association with major human populations in terms of skin color.
+REFERENCE   7  (bases 1 to 2769)
+  AUTHORS   Newton JM, Cohen-Barak O, Hagiwara N, Gardner JM, Davisson MT, King
+            RA and Brilliant MH.
+  TITLE     Mutations in the human orthologue of the mouse underwhite gene (uw)
+            underlie a new form of oculocutaneous albinism, OCA4
+  JOURNAL   Am. J. Hum. Genet. 69 (5), 981-988 (2001)
+   PUBMED   11574907
+  REMARK    GeneRIF: mutation underlies new form of oculocutaneous albinism,
+            OCA4
+REFERENCE   8  (bases 1 to 2769)
+  AUTHORS   Fukamachi S, Shimada A and Shima A.
+  TITLE     Mutations in the gene encoding B, a novel transporter protein,
+            reduce melanin content in medaka
+  JOURNAL   Nat. Genet. 28 (4), 381-385 (2001)
+   PUBMED   11479596
+REFERENCE   9  (bases 1 to 2769)
+  AUTHORS   Harada M, Li YF, El-Gamil M, Rosenberg SA and Robbins PF.
+  TITLE     Use of an in vitro immunoselected tumor line to identify shared
+            melanoma antigens recognized by HLA-A*0201-restricted T cells
+  JOURNAL   Cancer Res. 61 (3), 1089-1094 (2001)
+   PUBMED   11221837
+REFERENCE   10 (bases 1 to 2769)
+  AUTHORS   Hayashi,M. and Suzuki,T.
+  TITLE     Oculocutaneous Albinism Type 4
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301683
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BQ677785.1, BC064405.1 and
+            AC139777.3.
+            On Dec 6, 2014 this sequence version replaced NM_001012509.2.
+            
+            Summary: This gene encodes a transporter protein that mediates
+            melanin synthesis. The protein is expressed in a high percentage of
+            melanoma cell lines. Mutations in this gene are a cause of
+            oculocutaneous albinism type 4, and polymorphisms in this gene are
+            associated with variations in skin and hair color. Multiple
+            transcript variants encoding different isoforms have been found for
+            this gene. [provided by RefSeq, Mar 2009].
+            
+            Transcript Variant: This variant (2) differs in the 3' UTR and
+            coding region compared to variant 1. The resulting isoform (b) is
+            shorter and has a distinct C-terminus compared to isoform a.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC064405.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2145893
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-34                BQ677785.1         1-34
+            35-1078             BC064405.1         1-1044
+            1079-1079           AC139777.3         160424-160424       c
+            1080-2156           BC064405.1         1046-2122
+            2157-2173           AC139777.3         152468-152484       c
+            2174-2610           BC064405.1         2140-2576
+            2611-2611           AC139777.3         152030-152030       c
+            2612-2769           BC064405.1         2578-2735
+FEATURES             Location/Qualifiers
+     source          1..2769
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5p13.2"
+     gene            1..2769
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /note="solute carrier family 45 member 2"
+                     /db_xref="GeneID:51151"
+                     /db_xref="HGNC:HGNC:16472"
+                     /db_xref="MIM:606202"
+     exon            1..477
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             93..1475
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /note="isoform b is encoded by transcript variant 2;
+                     melanoma antigen AIM1; membrane-associated transporter
+                     protein; underwhite; protein AIM-1"
+                     /codon_start=1
+                     /product="membrane-associated transporter protein isoform
+                     b"
+                     /protein_id="NP_001012527.1"
+                     /db_xref="CCDS:CCDS43308.1"
+                     /db_xref="GeneID:51151"
+                     /db_xref="HGNC:HGNC:16472"
+                     /db_xref="MIM:606202"
+                     /translation="MGSNSGQAGRHIYKSLADDGPFDSVEPPKRPTSRLIMHSMAMFG
+                     REFCYAVEAAYVTPVLLSVGLPSSLYSIVWFLSPILGFLLQPVVGSASDHCRSRWGRR
+                     RPYILTLGVMMLVGMALYLNGATVVAALIANPRRKLVWAISVTMIGVVLFDFAADFID
+                     GPIKAYLFDVCSHQDKEKGLHYHALFTGFGGALGYLLGAIDWAHLELGRLLGTEFQVM
+                     FFFSALVLTLCFTVHLCSISEAPLTEVAKGIPPQQTPQDPPLSSDGMYEYGSIEKVKN
+                     GYVNPELAMQGAKNKNHAEQTRRAMTLKSLLRALVNMPPHYRYLCISHLIGWTAFLSN
+                     MLFFTDFMGQIVYRGDPYSAHNSTEFLIYERGVEVGCWGFCINSVFSSLYSYFQKVLV
+                     SYIGLKGLYFTGYLLFGLGTGFIGLFPNVYSTLVLCSLFGVMSSTLYTVPFNLITEYH
+                     REEEKEVCCH"
+     misc_feature    231..293
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    297..359
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    423..485
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    507..569
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    645..707
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    741..803
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    1047..1109
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    1191..1253
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    1287..1349
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     misc_feature    1368..1430
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UMX9.2);
+                     transmembrane region"
+     exon            478..654
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            655..980
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            981..1124
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1125..1248
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1249..2757
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /inference="alignment:Splign:2.1.0"
+     STS             2465..2735
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /standard_name="SHGC-132566"
+                     /db_xref="UniSTS:173950"
+     STS             2479..2652
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /standard_name="RH16380"
+                     /db_xref="UniSTS:12812"
+     STS             2636..2735
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+                     /standard_name="SHGC-36018"
+                     /db_xref="UniSTS:76152"
+     regulatory      2735..2740
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+     polyA_site      2757
+                     /gene="SLC45A2"
+                     /gene_synonym="1A1; AIM1; MATP; OCA4; SHEP5"
+ORIGIN      
+        1 gccaggctcc acgtcaaatc cagtttgaaa cacagaccct aggaccacgc aggaggtggt
+       61 gggctcgcag gaaggttcct ctcccagtgg ccatgggtag caacagtggg caggctggcc
+      121 gccacatcta taaatcccta gctgatgatg gcccctttga ctctgtggag ccgcctaaaa
+      181 gacccaccag cagactcatc atgcacagca tggccatgtt cggaagagag ttctgctacg
+      241 cggtggaggc agcgtatgtg accccagtcc tgctcagcgt aggtctgccc agcagcctgt
+      301 acagcattgt gtggttcctc agccccatcc tgggattcct gctgcagccc gtggtcggat
+      361 cggccagcga ccactgccgg tccaggtggg gccgccggag accctacatc ctcaccctgg
+      421 gagtcatgat gctcgtgggc atggctctgt acctcaatgg ggctactgtt gtagcagctt
+      481 tgattgctaa cccaaggagg aagctggttt gggccataag tgtcaccatg ataggtgtcg
+      541 ttctctttga ttttgctgcc gacttcattg atgggcccat caaagcctac ttatttgatg
+      601 tctgctccca tcaggacaag gagaagggcc tccactacca tgccctcttc acaggttttg
+      661 gaggtgccct gggttacctt ttgggtgcta tagactgggc ccatctggag ctgggaagac
+      721 tgttgggtac agaattccag gtcatgttct tcttctctgc attggtgctc actttgtgtt
+      781 ttactgttca tctgtgcagt atctctgaag ccccacttac agaggttgca aagggcattc
+      841 ccccacagca aacccctcag gaccctccat tgtcatcaga tggaatgtac gagtatggtt
+      901 ctatcgagaa agttaaaaat ggttacgtaa atccagagct ggcaatgcag ggagcaaaaa
+      961 acaaaaatca tgctgaacag actcgcaggg caatgacatt aaagtcactg ctgagagcac
+     1021 tggtgaacat gcctcctcac taccgctacc tttgcatcag ccacctcatt ggatggacag
+     1081 ccttcctgtc caacatgctg ttcttcacag atttcatggg ccagattgtg taccgcgggg
+     1141 atccctatag tgcacacaac tccacagagt ttctcatcta cgaaagagga gtcgaggttg
+     1201 gatgttgggg cttctgcatc aactccgtgt tttcctcact ttattcttac tttcagaaag
+     1261 ttttggtatc ctacattgga ttaaagggtc tttacttcac gggatatttg ctgtttggcc
+     1321 tggggacggg atttattggg ctcttcccga atgtctactc caccctggtc ctgtgcagcc
+     1381 tgtttggtgt aatgtccagc accctgtaca ctgtgccctt taacctcatt actgagtacc
+     1441 accgcgagga agaaaaggag gtgtgctgtc attgaacctc tgccttgggt aacatccaga
+     1501 ctcatctgaa ggctggggag gatttggtag caatgtgtag agcagagctg gaaaataagg
+     1561 gttcttgaaa cagcaacagt caaatgccca accaactgca accatgatct ggtacaggca
+     1621 tgctcaccag cccagcccag cccagctgtc ctgtcctcct tattctcaac tcctgctcac
+     1681 ttagggagct gtagggcaag aagtgttact cccatttttc taattagaaa aaggcttggt
+     1741 gaggctgaga aaccagccca caattacaca aagacaaaaa aagggggacc caggtcttct
+     1801 gtaaccacct cataggtctc cctggtgcca cctgcagcat ttctagatac cgacaataag
+     1861 ggtctcccta tccccaactt tcagaggtac atagtggaat ttcttggcat tatttgctga
+     1921 gggtaggaaa gtcctaggca atggagtcca gattttagta agtcagaccc catgtgtgag
+     1981 aaggaaagct ggaatcatgg gtggtaatcc ccactttgct gccctgagcg ggacctgtgc
+     2041 catttaaacc ttggaacgca actagtgaac aagcgcctat gcagtgctta taacagagtt
+     2101 ggtgtttcca ctctaaaatt accacctctt cttatcaaaa tttgcaactt tcttcctgtg
+     2161 aaaataggct tatagttcct taactggagc aatgatataa aagctacaga gataactcca
+     2221 agtttaatcc agctcagcat gaaactgcaa aaacactgaa catataacca tcagactata
+     2281 attctggcca tgtttttcat catttgatct ggcagcaggg cagaggtgca ccaggagtaa
+     2341 aaacctttca aaaaagaggt gtggctttcc tcatcccctg gcaaacattg tcaccaaggt
+     2401 gggatgttgc tgctaatggg agagtcatca taaaaaactg tccctacaag gagagtgtta
+     2461 catggtgttg ggggaagaaa acctacgctt caggctcaga gaaacctgga ttcaaatcct
+     2521 gcctctctca cttggaagct gtgttacact ggggatgtta tttacttgtt tattagttag
+     2581 cacttagaat gagttcattt ttaggtgaga taatatattc acaatgatac acaaaagtgc
+     2641 acactgtgtg ctccctttac catttactat ctccctccag ccccaacgtg ttaccactct
+     2701 tactagtttt ttgttaatct ttccggcatt tttaaataaa aaccaagcaa atgtaaaaaa
+     2761 aaaaaaaaa
+//
+

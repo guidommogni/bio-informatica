@@ -1,0 +1,291 @@
+LOCUS       NM_000372               2082 bp    mRNA    linear   PRI 16-APR-2018
+DEFINITION  Homo sapiens tyrosinase (TYR), mRNA.
+ACCESSION   NM_000372
+VERSION     NM_000372.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2082)
+  AUTHORS   Hassan M, Abbas Q, Raza H, Moustafa AA and Seo SY.
+  TITLE     Computational analysis of histidine mutations on the structural
+            stability of human tyrosinases leading to albinism insurgence
+  JOURNAL   Mol Biosyst 13 (8), 1534-1544 (2017)
+   PUBMED   28640309
+  REMARK    GeneRIF: The effect of histidine mutations on the structural
+            stability of human tyrosinase leading to albinism has been
+            reported.
+REFERENCE   2  (bases 1 to 2082)
+  AUTHORS   Weiss A, Vanchinathan V and Kwon EJ.
+  TITLE     Aberrant tyrosinase expression in an atypical fibroxanthoma: A case
+            report
+  JOURNAL   J. Cutan. Pathol. 44 (5), 467-469 (2017)
+   PUBMED   28097678
+  REMARK    GeneRIF: Aberrant tyrosinase expression in an atypical
+            fibroxanthoma
+REFERENCE   3  (bases 1 to 2082)
+  AUTHORS   De Filippo E, Schiedel AC and Manga P.
+  TITLE     Interaction between G Protein-Coupled Receptor 143 and Tyrosinase:
+            Implications for Understanding Ocular Albinism Type 1
+  JOURNAL   J. Invest. Dermatol. 137 (2), 457-465 (2017)
+   PUBMED   27720922
+  REMARK    GeneRIF: tyrosinase as a potential GPR143 binding protein opens new
+            avenues for investigating the mechanisms that regulate pigmentation
+            and neurogenesis.
+REFERENCE   4  (bases 1 to 2082)
+  AUTHORS   Dolinska MB, Kus NJ, Farney SK, Wingfield PT, Brooks BP and Sergeev
+            YV.
+  TITLE     Oculocutaneous albinism type 1: link between mutations, tyrosinase
+            conformational stability, and enzymatic activity
+  JOURNAL   Pigment Cell Melanoma Res 30 (1), 41-52 (2017)
+   PUBMED   27775880
+  REMARK    GeneRIF: Mutations in tyrosinase gene is associated with
+            Oculocutaneous albinism type 1.
+REFERENCE   5  (bases 1 to 2082)
+  AUTHORS   Wang X, Zhu Y, Shen N, Peng J, Wang C, Liu H and Lu Y.
+  TITLE     Mutation analysis of a Chinese family with oculocutaneous albinism
+  JOURNAL   Oncotarget 7 (51), 84981-84988 (2016)
+   PUBMED   27829221
+  REMARK    GeneRIF: Compound heterozygous mutations (c.832C>T and
+            c.929_930insC) in the TYR gene may be responsible for partial
+            clinical manifestations of oculocutaneous albinism
+REFERENCE   6  (bases 1 to 2082)
+  AUTHORS   Lewis,R.A.
+  TITLE     Oculocutaneous Albinism Type 1
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301345
+REFERENCE   7  (bases 1 to 2082)
+  AUTHORS   Oetting WS and King RA.
+  TITLE     Molecular analysis of type I-A (tyrosinase negative) oculocutaneous
+            albinism
+  JOURNAL   Hum. Genet. 90 (3), 258-262 (1992)
+   PUBMED   1487241
+REFERENCE   8  (bases 1 to 2082)
+  AUTHORS   Tripathi RK, Strunk KM, Giebel LB, Weleber RG and Spritz RA.
+  TITLE     Tyrosinase gene mutations in type I (tyrosinase-deficient)
+            oculocutaneous albinism define two clusters of missense
+            substitutions
+  JOURNAL   Am. J. Med. Genet. 43 (5), 865-871 (1992)
+   PUBMED   1642278
+REFERENCE   9  (bases 1 to 2082)
+  AUTHORS   Bard,L.A.
+  TITLE     Heterogeneity in Waardenburg's syndrome. Report of a family with
+            ocular albinism
+  JOURNAL   Arch. Ophthalmol. 96 (7), 1193-1198 (1978)
+   PUBMED   666627
+REFERENCE   10 (bases 1 to 2082)
+  AUTHORS   Palmer,L.G. and Civan,M.M.
+  TITLE     Intracellular distribution of free potassium in Chironomus salivary
+            glands
+  JOURNAL   Science 188 (4195), 1321-1322 (1975)
+   PUBMED   1145200
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from M27160.1 and BU736025.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 31, 2006 this sequence version replaced NM_000372.3.
+            
+            Summary: The enzyme encoded by this gene catalyzes the first 2
+            steps, and at least 1 subsequent step, in the conversion of
+            tyrosine to melanin. The enzyme has both tyrosine hydroxylase and
+            dopa oxidase catalytic activities, and requires copper for
+            function. Mutations in this gene result in oculocutaneous albinism,
+            and nonpathologic polymorphisms result in skin pigmentation
+            variation. The human genome contains a pseudogene similar to the 3'
+            half of this gene. [provided by RefSeq, Oct 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: M27160.1, M74314.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145893, SAMEA2147596
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1964              M27160.1           421-2384
+            1965-2082           BU736025.1         1-118               c
+FEATURES             Location/Qualifiers
+     source          1..2082
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q14.3"
+     gene            1..2082
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /note="tyrosinase"
+                     /db_xref="GeneID:7299"
+                     /db_xref="HGNC:HGNC:12442"
+                     /db_xref="MIM:606933"
+     exon            1..901
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /inference="alignment:Splign:2.1.0"
+     STS             33..539
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="GDB:197911"
+                     /db_xref="UniSTS:156002"
+     misc_feature    44..46
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /note="upstream in-frame stop codon"
+     CDS             83..1672
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /EC_number="1.14.18.1"
+                     /note="LB24-AB; SK29-AB; monophenol monooxygenase; tumor
+                     rejection antigen AB; oculocutaneous albinism IA"
+                     /codon_start=1
+                     /product="tyrosinase precursor"
+                     /protein_id="NP_000363.1"
+                     /db_xref="CCDS:CCDS8284.1"
+                     /db_xref="GeneID:7299"
+                     /db_xref="HGNC:HGNC:12442"
+                     /db_xref="MIM:606933"
+                     /translation="MLLAVLYCLLWSFQTSAGHFPRACVSSKNLMEKECCPPWSGDRS
+                     PCGQLSGRGSCQNILLSNAPLGPQFPFTGVDDRESWPSVFYNRTCQCSGNFMGFNCGN
+                     CKFGFWGPNCTERRLLVRRNIFDLSAPEKDKFFAYLTLAKHTISSDYVIPIGTYGQMK
+                     NGSTPMFNDINIYDLFVWMHYYVSMDALLGGSEIWRDIDFAHEAPAFLPWHRLFLLRW
+                     EQEIQKLTGDENFTIPYWDWRDAEKCDICTDEYMGGQHPTNPNLLSPASFFSSWQIVC
+                     SRLEEYNSHQSLCNGTPEGPLRRNPGNHDKSRTPRLPSSADVEFCLSLTQYESGSMDK
+                     AANFSFRNTLEGFASPLTGIADASQSSMHNALHIYMNGTMSQVQGSANDPIFLLHHAF
+                     VDSIFEQWLRRHRPLQEVYPEANAPIGHNRESYMVPFIPLYRNGDFFISSKDLGYDYS
+                     YLQDSDPDSFQDYIKSYLEQASRIWSWLLGAAMVGAVLTALLAGLVSLLCRHKRKQLP
+                     EEKQPLLMEKEDYHSLYQSHL"
+     sig_peptide     83..136
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+     mat_peptide     137..1669
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /product="tyrosinase"
+     misc_feature    1511..1573
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14679.3);
+                     transmembrane region"
+     STS             83..389
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="GDB:320031"
+                     /db_xref="UniSTS:156585"
+     STS             160..844
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="MARC_31609-31610:1062097014:1"
+                     /db_xref="UniSTS:269208"
+     STS             263..619
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="GDB:176315"
+                     /db_xref="UniSTS:154795"
+     STS             390..901
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="GDB:177333"
+                     /db_xref="UniSTS:154859"
+     STS             455..649
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="TYR"
+                     /db_xref="UniSTS:480080"
+     exon            902..1118
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /inference="alignment:Splign:2.1.0"
+     STS             902..1118
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="GDB:177754"
+                     /db_xref="UniSTS:154957"
+     STS             909..1118
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="TYR"
+                     /db_xref="UniSTS:264961"
+     exon            1119..1266
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1267..1448
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1449..2065
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /inference="alignment:Splign:2.1.0"
+     STS             1496..1659
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="RH69108"
+                     /db_xref="UniSTS:16210"
+     STS             1734..1849
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+                     /standard_name="D11S3987"
+                     /db_xref="UniSTS:26848"
+     regulatory      1946..1951
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+     polyA_site      1976
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+     regulatory      2045..2050
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+     polyA_site      2065
+                     /gene="TYR"
+                     /gene_synonym="ATN; CMM8; OCA1; OCA1A; OCAIA; SHEP3"
+ORIGIN      
+        1 atcactgtag tagtagctgg aaagagaaat ctgtgactcc aattagccag ttcctgcaga
+       61 ccttgtgagg actagaggaa gaatgctcct ggctgttttg tactgcctgc tgtggagttt
+      121 ccagacctcc gctggccatt tccctagagc ctgtgtctcc tctaagaacc tgatggagaa
+      181 ggaatgctgt ccaccgtgga gcggggacag gagtccctgt ggccagcttt caggcagagg
+      241 ttcctgtcag aatatccttc tgtccaatgc accacttggg cctcaatttc ccttcacagg
+      301 ggtggatgac cgggagtcgt ggccttccgt cttttataat aggacctgcc agtgctctgg
+      361 caacttcatg ggattcaact gtggaaactg caagtttggc ttttggggac caaactgcac
+      421 agagagacga ctcttggtga gaagaaacat cttcgatttg agtgccccag agaaggacaa
+      481 attttttgcc tacctcactt tagcaaagca taccatcagc tcagactatg tcatccccat
+      541 agggacctat ggccaaatga aaaatggatc aacacccatg tttaacgaca tcaatattta
+      601 tgacctcttt gtctggatgc attattatgt gtcaatggat gcactgcttg ggggatctga
+      661 aatctggaga gacattgatt ttgcccatga agcaccagct tttctgcctt ggcatagact
+      721 cttcttgttg cggtgggaac aagaaatcca gaagctgaca ggagatgaaa acttcactat
+      781 tccatattgg gactggcggg atgcagaaaa gtgtgacatt tgcacagatg agtacatggg
+      841 aggtcagcac cccacaaatc ctaacttact cagcccagca tcattcttct cctcttggca
+      901 gattgtctgt agccgattgg aggagtacaa cagccatcag tctttatgca atggaacgcc
+      961 cgagggacct ttacggcgta atcctggaaa ccatgacaaa tccagaaccc caaggctccc
+     1021 ctcttcagct gatgtagaat tttgcctgag tttgacccaa tatgaatctg gttccatgga
+     1081 taaagctgcc aatttcagct ttagaaatac actggaagga tttgctagtc cacttactgg
+     1141 gatagcggat gcctctcaaa gcagcatgca caatgccttg cacatctata tgaatggaac
+     1201 aatgtcccag gtacagggat ctgccaacga tcctatcttc cttcttcacc atgcatttgt
+     1261 tgacagtatt tttgagcagt ggctccgaag gcaccgtcct cttcaagaag tttatccaga
+     1321 agccaatgca cccattggac ataaccggga atcctacatg gttcctttta taccactgta
+     1381 cagaaatggt gatttcttta tttcatccaa agatctgggc tatgactata gctatctaca
+     1441 agattcagac ccagactctt ttcaagacta cattaagtcc tatttggaac aagcgagtcg
+     1501 gatctggtca tggctccttg gggcggcgat ggtaggggcc gtcctcactg ccctgctggc
+     1561 agggcttgtg agcttgctgt gtcgtcacaa gagaaagcag cttcctgaag aaaagcagcc
+     1621 actcctcatg gagaaagagg attaccacag cttgtatcag agccatttat aaaaggctta
+     1681 ggcaatagag tagggccaaa aagcctgacc tcactctaac tcaaagtaat gtccaggttc
+     1741 ccagagaata tctgctggta tttttctgta aagaccattt gcaaaattgt aacctaatac
+     1801 aaagtgtagc cttcttccaa ctcaggtaga acacacctgt ctttgtcttg ctgttttcac
+     1861 tcagcccttt taacattttc ccctaagccc atatgtctaa ggaaaggatg ctatttggta
+     1921 atgaggaact gttatttgta tgtgaattaa agtgctctta ttttaaaaaa ttgaaataat
+     1981 tttgattttt gccttctgat tatttaaaga tctatatatg ttttattggc cccttcttta
+     2041 ttttaataaa acagtgagaa atctaaaaaa aaaaaaaaaa aa
+//
+
